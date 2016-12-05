@@ -2,6 +2,8 @@
 .zip
 .script
 .tar
+.zip
+.tar.gz
 .dmg
 .js
 .php

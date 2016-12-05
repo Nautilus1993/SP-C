@@ -248,6 +248,18 @@ The content which includes real user name, fake web link and file extension elem
 
 
 
+## Part I. Implementation
+
+### FoxScript -- Alert Triggers
+
+### Python -- Classifier
+
+
+
+
+
+
+
 	
 		
  
