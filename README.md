@@ -125,7 +125,7 @@ For more accurate alert level, we can assign each feature f with a weight w. For
 
 
 
-![](classifier.jpg)
+![](https://github.com/Nautilus1993/SP-C/blob/master/img/classifier.jpg)
 
 ###Contingency Plan: Classifier
 
@@ -183,7 +183,7 @@ The target user @richardyuze1 intended to update his windows and clicked the lin
 
 The content which includes file extension elements (keywords in the dictionary: such as .exe, .zip, .script, .tar, .dmg, .js ) will trigger the first kind of low level alert in spear phishing message policy. As the ZeroFox detects those keywords a low level alert with pop up in the Alert Notification.
 
-![](1.jpg)
+![](https://github.com/Nautilus1993/SP-C/blob/master/img/1.jpg)
 
 ###Scenario 2 (fake web link)
 
@@ -194,7 +194,7 @@ The target user @richardyuze1 intended to go to amazon webpage, but he ignored t
 
 The content which includes fake web link elements (keywords in the dictionary: such as B0a.com, Amaz0n.com, App1e.com, Micros0ft.com) will trigger the second kind of low level alert in spear phishing message policy. As the ZeroFox detects those keywords a low level alert with pop up in the Alert Notification.
 
-![](2.jpg)
+![](https://github.com/Nautilus1993/SP-C/blob/master/img/2.jpg)
 
 ### Scenario 3 (file extension + real user name)
 
@@ -205,7 +205,7 @@ Test 3:
 
 The content which includes real user name and file extension elements (keywords in the dictionary: such as .exe, .zip, .script, .tar, .dmg, .js ) will trigger the first kind of medium level alert in spear phishing message policy. As the ZeroFox detects those keywords a medium level alert with pop up in the Alert Notification.
 
-![](3.jpg)
+![](https://github.com/Nautilus1993/SP-C/blob/master/img/3.jpg)
 
 ###Scenario 4 (fake web link + real user name):
 
@@ -216,7 +216,7 @@ fake link.
 **Test 4:**
 The content which includes real user name and fake web link elements (keywords in the dictionary: such as B0a.com, Amaz0n.com, App1e.com, Micros0ft.com) will trigger the second kind of medium level alert in spear phishing message policy. As the ZeroFox detects those keywords a medium level alert with pop up in the Alert Notification.
 
-![](4.jpg)
+![](https://github.com/Nautilus1993/SP-C/blob/master/img/4.jpg)
 
 ###Scenario 5 (file extension + fake web link + real user name):
 
@@ -226,7 +226,7 @@ The target user @richardyuze1 intended to update his windows and clicked the lin
 **Test 5:**
 The content which includes real user name, fake web link and file extension elements (keywords in the dictionary) will trigger the high level alert in spear phishing message policy. As the ZeroFox detects those keywords a high level alert with pop up in the Alert Notification.
 
-![](5.jpg)
+![](https://github.com/Nautilus1993/SP-C/blob/master/img/5.jpg)
 
 
 
