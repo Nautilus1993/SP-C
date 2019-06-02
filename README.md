@@ -1,4 +1,4 @@
-#Spear Phishing Detection on Twitter 
+# Spear Phishing Detection on Twitter 
 
 **Team Member**  
 Yuhang Wang,
@@ -37,22 +37,22 @@ For organizations and enterprises, in addition to the abovementioned influences 
 A user may have several social media accounts, and one of these accounts may not meet the strict security control standard, but this person connected these accounts, some accounts connected to one account using single sign on, when hacker get this account’s password, he can access all these accounts.
 
 
-###2. Cross Site Request Forgery
+### 2. Cross Site Request Forgery
 An attacker send user a malicious link via web page, email, social media apps, attacker trick user to click this link, usually, the malicious link is on the forum and user will open it as normal, then attacker can perform actions without users’ permission.
 
-###3. Cross Site Scripting
+### 3. Cross Site Scripting
 Attackers inject the client-side scripting in a web page, and attackers make user’s web browser to execute some malicious code, then attackers may steal user’s information or impersonate the user.
 
-###4. Phishing
+### 4. Phishing
 Attackers sent users message using social media, and these message are pretended as official message, like using “Micros0ft” (should be Microsoft) to trick victim. Then user may click the link and malicious code will be executed. And attackers will send this information to the victim’s all friends.
 
-###5. Information Leakage
+### 5. Information Leakage
 People may share sensitive information on the social media, the information may be important to someone else or including the secret of business of people’s company. The sensitive data may be leaked by social media users, then attackers or bad people will get the information they want.
 
-###6. Injection Flaws
+### 6. Injection Flaws
 Social media applications often rely on client side code, but the attacker could bypass the client-side input validation, attackers may pass malicious code through the web application.
 
-###7. Insufficient Anti-automation
+### 7. Insufficient Anti-automation
 >“Insufficient Anti-automation occurs when an application permits an attacker to automate a process that was originally designed to be performed only in a manual fashion.”
 
 
